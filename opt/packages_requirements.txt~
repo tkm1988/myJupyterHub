@@ -2,6 +2,5 @@ matplotlib
 pandas
 sklearn
 notebook
-jupyterlab
 tensorflow
 keras
