@@ -5,3 +5,8 @@ notebook
 jupyterlab
 tensorflow
 keras
+opencv-python
+wordcloud
+numpy
+scipy
+
