@@ -8,3 +8,5 @@ c.NotebookApp.base_url = '/jupyter/'
 c.NotebookApp.base_project_url = '/jupyter/'
 c.NotebookApp.webapp_settings = {'static_url_prefix':'/jupyter/static/'}
 c.Spawner.default_url = '/lab'
+c.NotebookApp.kernel_spec_manager_class='environment_kernels.EnvironmentKernelSpecManager'
+c.EnvironmentKernelSpecManager.env_dirs=['/opt/conda/envs']

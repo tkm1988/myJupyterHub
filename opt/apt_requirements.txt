@@ -1,0 +1,5 @@
+sudo
+glyrc
+libglib2.0-0
+libsm-dev
+libxrender-dev
